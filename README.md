@@ -5,7 +5,7 @@ Hangman Game built using React.js and class componenets.
 ## Short demo:
 
 <p align ="center">
-<img src="./hangman.gif" alt="Hangman Game app example">
+<img src="./hangman_game.gif" alt="Hangman Game app example">
 </p>
 
 ## Installation
